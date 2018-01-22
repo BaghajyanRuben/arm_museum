@@ -1,0 +1,10 @@
+<resources>
+    <string name="map_api_key">AIzaSyChtEM0WFeJ-7WLqj01PZ2Z6qqnQK2GOhM</string>
+    <string name="map_direction_api_key">AIzaSyDlPXHq9OGfM93EzAfUQYBtVEFbi94opP0</string>
+    <string name="app_name">ArmMuseum</string>
+    <string name="gen_scan">Scan</string>
+    <string name="scan_to_find">Scan Barcode to find museum</string>
+    <string name="hashtag_text_eng">i am going to the museum</string>
+    <string name="hashtag_text_ru">я иду в музей</string>
+    <string name="hashtag_text_арм">ես գնւմ եմ թանգարան</string>
+</resources>
